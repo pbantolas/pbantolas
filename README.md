@@ -9,7 +9,7 @@ I'm an iOS developer with a love for coffee, clean code, and building tools I ac
 * 🔭 I’m currently building **[LatteArtist](https://latteartist.coffeeatpetros.com)**, an iOS app to help you master latte art, practice patterns, and track your progress.
 * 🌱 I’m slowly teaching myself the finer points of product & design.
 * 💼 My background is in graphics! At Apple, I worked on HDR technologies and supported game developers using the Metal API.
-* 💬 Ask me about Swift, SwiftUI, Metal, or how to pour the perfect rosetta!
+* 💬 Ask me about Swift, SwiftUI, Metal, or how to pour the perfect tulip!
 * 📫 How to reach me: **[Email](mailto:petros@bantolas.dev)** or on **[X](https://x.com/pbantolas)**.
 
 ### 🛠️ My Tech Stack
