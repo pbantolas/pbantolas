@@ -14,11 +14,11 @@ Custom graphics engines on Apple platforms (Metal) and cross-platform in C++. Re
 
 ### Projects
 
-| | |
-|---|---|
-| ☕ [**LatteArtist**](https://latteartist.coffeeatpetros.com) | iOS app for mastering latte art — practice patterns, track progress. |
-| 📐 [**MiniLiftOff**](https://github.com/pbantolas/MiniLiftOff) | SwiftUI component for smooth, customizable slide-up sheet transitions with built-in progress tracking. |
-| 🏋️ [**liftosaur-program-creator**](https://github.com/pbantolas/liftosaur-program-creator) | Claude Code skill that writes and debugs Liftoscript programs for the Liftosaur workout app — describe what you want, get working code. |
+☕ [**LatteArtist**](https://latteartist.coffeeatpetros.com) — iOS app for mastering latte art — practice patterns, track progress.
+
+📐 [**MiniLiftOff**](https://github.com/pbantolas/MiniLiftOff) — SwiftUI component for smooth, customizable slide-up sheet transitions with built-in progress tracking.
+
+🏋️ [**liftosaur-program-creator**](https://github.com/pbantolas/liftosaur-program-creator) — Agent skill that writes and debugs Liftoscript programs for the Liftosaur workout app — describe what you want, get working code.
 
 ---
 
