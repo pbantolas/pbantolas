@@ -25,6 +25,8 @@ Custom graphics engines on Apple platforms (Metal) and cross-platform in C++. Re
 
 🏋️ [**liftosaur-program-creator**](https://github.com/pbantolas/liftosaur-program-creator) — Agent skill that writes and debugs Liftoscript programs for the Liftosaur workout app — describe what you want, get working code.
 
+🎵 [**TFL Soundscape**](https://tfl-soundscape.vercel.app/) — An interactive sonic exploration of London's transport network. Live train arrivals become generative ambient music.
+
 ---
 
 ### Stack
